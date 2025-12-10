@@ -1,0 +1,13 @@
+[project]
+name = "yap-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.3.9",
+    "cohere>=5.20.0",
+    "dotenv>=0.9.9",
+    "ipywidgets>=8.1.8",
+    "rich>=14.2.0",
+]
